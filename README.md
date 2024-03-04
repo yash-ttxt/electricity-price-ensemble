@@ -1,1 +1,1 @@
-# electricity-price-ensemble
+# Electricity Price Explanatory Analysis
